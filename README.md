@@ -1,5 +1,5 @@
 
-Greetings 👋 this is my Github page, here you can find what I'm working/worked on!
+### Greetings 👋 this is my Github page, here you can find what I'm working/worked on!
 
   I'm a Full Stack Developer that's currently looking for new opportunities! I'm always willing to learn new technologies and to face new challenges!
   I'm a person that love logical processes I'm always curious about what's behind something that is working or not working.
